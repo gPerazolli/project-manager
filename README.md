@@ -2,7 +2,7 @@
 ![Front-end-Project Manager](https://github.com/gPerazolli/project-manager/assets/156598412/a5800023-eed0-4632-9c12-09a89d2aa549)
 
 # Project Manager
-App para criação, lista e gerencimento de estado de projetos
+App para criação, lista e gerenciamento de estado de projetos
 
 ## 🔨 Funcionalidades do projeto
 
